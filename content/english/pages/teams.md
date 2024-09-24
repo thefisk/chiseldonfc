@@ -17,10 +17,9 @@ Norris Close,
 Chiseldon,
 SN4 0LP
 
+<iframe src="https://www.google.com/maps/embed?pb=!1m12!1m8!1m3!1d4965.81510866068!2d-1.736569!3d51.514912!3m2!1i1024!2i768!4f13.1!2m1!1sRecreation%20Hall!5e0!3m2!1sen!2suk!4v1727193710019!5m2!1sen!2suk" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-View Larger Map
-
-
+---
 
 #### Chiseldon FC U11 (9v9)
 - North Wiltshire Youth Football League - U11 Development Red
