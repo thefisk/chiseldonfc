@@ -6,7 +6,17 @@ image: "/images/respect_main.jpg"
 draft: false
 ---
 
-### Club Constitutions and Codes of Conduct
+#### Club Committee
+
+| Role            | Name            |                    Email |
+| --------------- | :-------------: | -----------------------: |
+| Chairman        | Stewart Parsons | chiseldonfc@hotmail.com  |
+| Secretary       | Martin Ashurst  | chiseldonfcsec@gmail.com |
+| Treasurer       | Matthew Clarke  | clarke.matthew1@sky.com  |
+| Welfare Officer | Matthew Clarke  | clarke.matthew1@sky.com  |
+| Respect Officer | Martin Ashurst  | chiseldonfcsec@gmail.com | 
+
+{{< accordion "Club Constitutions and Codes of Conduct" >}}
 
 [Chiseldon FC - Club Constitution](/docs/Chiseldon-FC-Club-Constitution-17-18.pdf)
 
@@ -26,8 +36,9 @@ draft: false
 
 [Chiseldon FC - Safeguarding Children Policy](/docs/Chiseldon-FC-Safeguarding-Children-Policy.pdf)
 
----
-### Club Documentation
+{{<  /accordion >}}
+
+{{< accordion "Club Documentation" >}}
 
 [Chiseldon FC - Emergency Action Plan](/docs/Chiseldon-FC-Emergency-Action-Plan.pdf)
 
@@ -38,3 +49,4 @@ draft: false
 [Chiseldon FC - Covid Risk Assessment 2020](/docs/Chiseldon-FC-Covid-Risk-Assessment-2020.docx)
 
 [Chiseldon FC - Covid Player Communication](/docs/Chiseldon-FC-Covid-Player-Communication-Letter.doc)
+{{< /accordion >}}
