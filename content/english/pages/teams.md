@@ -10,7 +10,7 @@ draft: false
 
 Chiseldon FC currently runs teams at multiple age groups and looks to introduce new teams each season.
 
-{{< accordion "Where Can you find us?" >}}
+{{< accordion "Where can you find us?" >}}
 Chiseldon Recreation Ground,
 Norris Close,
 Chiseldon,
