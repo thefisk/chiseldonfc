@@ -27,7 +27,7 @@ SN4 0LP
 {{< tab "Under 11s" >}}
 
 #### Chiseldon FC U11 (9v9)
-- North Wiltshire Youth Football League - U11 Development Red
+- [North Wiltshire Youth Football League - U11 Development Red](https://fulltime.thefa.com/index.html?selectedSeason=801454154&selectedFixtureGroupAgeGroup=0&selectedDivision=632069669&selectedCompetition=0)
 - Manager: Andy Kilburn (FA Level 1 Pending)
 - Coach: Russell Arkley (FA Level 1)
 - Contact: Andy Kilburn
@@ -37,7 +37,7 @@ SN4 0LP
 {{< tab "Under 14s" >}}
 
 #### Chiseldon FC U14 (11v11)
-- North Wiltshire Youth Football League - U14 Division 4
+- [North Wiltshire Youth Football League - U14 Division 4](https://fulltime.thefa.com/index.html?selectedSeason=801454154&selectedFixtureGroupAgeGroup=0&selectedDivision=816154815&selectedCompetition=0)
 - Manager: Russell Arkley (FA Level 1)
 - Coach: Brady Lilley (FA Level 1)
 - Contact: Russell Arkley
@@ -46,7 +46,7 @@ SN4 0LP
 
 {{< tab "Senior (Sat)" >}}
 #### Chiseldon FC Senior Saturday
-- Swindon & District Football League – Premier Division
+- [Swindon & District Football League – Premier Division](https://fulltime.thefa.com/index.html?league=2799344)
 - Manager: Stewart Parsons (FA Level 1)
 - Contact: chiseldonfc@hotmail.com
 - Facebook: https://www.facebook.com/ChisledonFC
@@ -54,7 +54,7 @@ SN4 0LP
 
 {{< tab "Senior (Sun)" >}}
 #### Chiseldon FC Senior Sunday
-- Swindon Sunday League – Division 1
+- [Swindon Sunday League – Division 1](https://fulltime.thefa.com/index.html?league=4736749)
 - Manager: Stewart Parsons (FA Level 1)
 - Contact: chiseldonfc@hotmail.com
 - Facebook: https://www.facebook.com/ChisledonFC
@@ -62,7 +62,7 @@ SN4 0LP
 
 {{< tab "Over 35s" >}}
 #### Chiseldon FC Veterans (Over 35s)
-- Wiltshire Senior League - Veterans North Wiltshire Division
+- [Wiltshire Senior League - Veterans North Wiltshire Division](https://www.wiltshireseniorleague.co.uk/veterans-north)
 - Manager: Shaun Smith
 - Contact: Shaun Smith
 - Facebook: https://www.facebook.com/ChisledonFC
