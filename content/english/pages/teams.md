@@ -52,14 +52,6 @@ SN4 0LP
 - Facebook: https://www.facebook.com/ChisledonFC
 {{< /tab >}}
 
-{{< tab "Senior (Sun)" >}}
-#### Chiseldon FC Senior Sunday
-- [Swindon Sunday League – Division 1](https://fulltime.thefa.com/index.html?league=4736749)
-- Manager: Stewart Parsons (FA Level 1)
-- Contact: chiseldonfc@hotmail.com
-- Facebook: https://www.facebook.com/ChisledonFC
-{{< /tab >}}
-
 {{< tab "Over 35s" >}}
 #### Chiseldon FC Veterans (Over 35s)
 - [Wiltshire Senior League - Veterans North Wiltshire Division](https://www.wiltshireseniorleague.co.uk/veterans-north)
