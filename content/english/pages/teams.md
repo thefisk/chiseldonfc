@@ -47,7 +47,7 @@ SN4 0LP
 {{< tab "Senior (Sat)" >}}
 #### Chiseldon FC Senior Saturday
 - [Swindon & District Football League – Premier Division](https://fulltime.thefa.com/index.html?league=2799344)
-- Manager: Stewart Parsons (FA Level 1)
+- Manager: James Lovell (FA Level 1)
 - Contact: chiseldonfc@hotmail.com
 - Facebook: https://www.facebook.com/ChisledonFC
 {{< /tab >}}
