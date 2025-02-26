@@ -28,8 +28,7 @@ SN4 0LP
 
 #### Chiseldon FC U11 (9v9)
 - [North Wiltshire Youth Football League - U11 Development Red](https://fulltime.thefa.com/index.html?selectedSeason=801454154&selectedFixtureGroupAgeGroup=0&selectedDivision=632069669&selectedCompetition=0)
-- Manager: Andy Kilburn (FA Level 1 Pending)
-- Coach: Russell Arkley (FA Level 1)
+- Manager: Andy Kilburn (FA Level 1)
 - Contact: Andy Kilburn
 - Facebook: https://www.facebook.com/ChisledonFC
 {{< /tab >}}
