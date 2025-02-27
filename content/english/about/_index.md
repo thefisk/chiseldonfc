@@ -17,11 +17,11 @@ Some of the many achievements of the management committee are:
 - Awarded and maintained ‘FA Charter Standard Development Club’ status – for more information refer to the Charter Standard page
 - Creation of a five year development plan to continue the growth of the club
 - Providing a positive environment for boys and girls to learn football within the Chiseldon parish
-- Established three (Saturday, Sunday and Veterans) senior football teams
+- Established two (Saturday and Veterans) senior football teams
 - Received numerous awards recognising the success of the Football Club
 - Successfully applied for various grants enabling the on-going development of the Football Club on and off the pitch
 
-For the 2024 / 2025 football season, Chiseldon Football Club has teams at u11, u14, senior, and veteran levels. Each junior team is a member of the North Wiltshire Youth Football League and is run by fully qualified (Enhanced DBS, minimum FA Level 1 Certificate in Coaching Football, Emergency Aid and Child-welfare certification) managers. The clubs senior teams (Saturday and Sunday) play within the Swindon & District League and Swindon Sunday League respectively and are managed to the same high standard as the junior teams. The clubs Veterans team (over 35s) plays in the Wiltshire Senior League. Contact details of the respective team managers can be found on the ‘Teams’ page of this website.
+For the 2024 / 2025 football season, Chiseldon Football Club has teams at u11, u14, senior, and veteran levels. Each junior team is a member of the North Wiltshire Youth Football League and is run by fully qualified (Enhanced DBS, minimum FA Level 1 Certificate in Coaching Football, Emergency Aid and Child-welfare certification) managers. The clubs senior team plays within the Swindon & District League and is managed to the same high standard as the junior teams. The clubs Veterans team (over 35s) plays in the Wiltshire Senior League. Contact details of the respective team managers can be found on the ‘Teams’ page of this website.
 
 The club is committed to developing all of its existing teams and introducing new teams in the future. If you know of any players, male or female, with an interest in playing football, even if just to train, the club would be happy to welcome them.
 

@@ -10,7 +10,7 @@ draft: false
 
 | Role            | Name            |                    Email |
 | --------------- | :-------------: | -----------------------: |
-| Chairman        | Stewart Parsons | chiseldonfc@hotmail.com  |
+| Chairman        | Matthew Clarke  | clarke.matthew1@sky.com  |
 | Secretary       | Martin Ashurst  | chiseldonfcsec@gmail.com |
 | Treasurer       | Matthew Clarke  | clarke.matthew1@sky.com  |
 | Welfare Officer | Matthew Clarke  | clarke.matthew1@sky.com  |
