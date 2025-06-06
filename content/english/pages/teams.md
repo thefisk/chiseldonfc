@@ -24,6 +24,15 @@ SN4 0LP
 ### Our Teams
 
 {{< tabs >}}
+{{< tab "Under 10s" >}}
+
+#### Chiseldon FC U10 (7v7)
+- [North Wiltshire Youth Football League - TBC](#)
+- Manager: Luke Robinson (FA Level 1)
+- Contact: Luke Robinson
+- Facebook: https://www.facebook.com/ChisledonFC
+{{< /tab >}}
+
 {{< tab "Under 12s" >}}
 
 #### Chiseldon FC U12 (9v9)
@@ -40,6 +49,15 @@ SN4 0LP
 - Manager: Dean Hart (FA Level 1)
 - Coach: Brady Lilley (FA Level 1)
 - Contact: Dean Hart
+- Facebook: https://www.facebook.com/ChisledonFC
+{{< /tab >}}
+
+{{< tab "Under 18s" >}}
+
+#### Chiseldon FC U18 (11v11)
+- [North Wiltshire Youth Football League - TBC](#)
+- Manager: James Lovell (FA Level 1)
+- Contact: James Lovell
 - Facebook: https://www.facebook.com/ChisledonFC
 {{< /tab >}}
 
