@@ -24,10 +24,10 @@ SN4 0LP
 ### Our Teams
 
 {{< tabs >}}
-{{< tab "Under 11s" >}}
+{{< tab "Under 12s" >}}
 
-#### Chiseldon FC U11 (9v9)
-- [North Wiltshire Youth Football League - U11 Development Red](https://fulltime.thefa.com/index.html?selectedSeason=801454154&selectedFixtureGroupAgeGroup=0&selectedDivision=632069669&selectedCompetition=0)
+#### Chiseldon FC U12 (9v9)
+- [North Wiltshire Youth Football League - U12 Development Red](https://fulltime.thefa.com/index.html?selectedSeason=801454154&selectedFixtureGroupAgeGroup=0&selectedDivision=632069669&selectedCompetition=0)
 - Manager: Andy Kilburn (FA Level 1)
 - Contact: Andy Kilburn
 - Facebook: https://www.facebook.com/ChisledonFC
