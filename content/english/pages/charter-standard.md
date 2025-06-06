@@ -18,4 +18,4 @@ As part of the FA Charter Standard Development Club application, the club has cr
 - Ensure the ongoing training and development of all club members
 - Continue work to develop existing/new facilities
 
-If you would like further details on the club and/or its development plan, please contact Matthew Clarke at clarke.matthew1@sky.com
+If you would like further details on the club and/or its development plan, please contact chiseldonfcsec@gmail.com
