@@ -18,7 +18,7 @@ draft: false
 
 {{< accordion "Club Constitutions and Codes of Conduct" >}}
 
-[Chiseldon FC - Club Constitution](/docs/Chiseldon-FC-Club-Constitution-17-18.pdf)
+[Chiseldon FC - Club Constitution](/docs/Chiseldon-FC-Club-Constitution-25-26.pdf)
 
 [Chiseldon FC - Charter Standard Constitution](/docs/FA-Charter-Standard-Constitution.pdf)
 
