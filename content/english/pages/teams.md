@@ -6,7 +6,7 @@ image: "/images/respect_main.jpg"
 draft: false
 ---
 
-### Chiseldon FC 2024 - 2025
+### Chiseldon FC 2025 - 2026
 
 Chiseldon FC currently runs teams at multiple age groups and looks to introduce new teams each season.
 
