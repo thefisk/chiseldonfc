@@ -27,7 +27,7 @@ SN4 0LP
 {{< tab "Under 10s" >}}
 
 #### Chiseldon FC U10 (7v7)
-- [North Wiltshire Youth Football League - TBC](#)
+- [North Wiltshire Youth Football League - Under 10 Development Blue](https://fulltime.thefa.com/index.html?selectedSeason=887216677&selectedFixtureGroupAgeGroup=0&selectedDivision=564618760&selectedCompetition=0#tab-2)
 - Manager: Luke Robinson (FA Level 1)
 - Contact: Luke Robinson
 - Facebook: https://www.facebook.com/ChisledonFC
@@ -36,7 +36,7 @@ SN4 0LP
 {{< tab "Under 12s" >}}
 
 #### Chiseldon FC U12 (9v9)
-- [North Wiltshire Youth Football League - U12 Development Red](https://fulltime.thefa.com/index.html?selectedSeason=801454154&selectedFixtureGroupAgeGroup=0&selectedDivision=632069669&selectedCompetition=0)
+- [North Wiltshire Youth Football League - U12 Division 5](https://fulltime.thefa.com/index.html?selectedSeason=887216677&selectedFixtureGroupAgeGroup=0&selectedDivision=572410290&selectedCompetition=0)
 - Manager: Andy Kilburn (FA Level 1)
 - Contact: Andy Kilburn
 - Facebook: https://www.facebook.com/ChisledonFC
@@ -45,7 +45,7 @@ SN4 0LP
 {{< tab "Under 15s" >}}
 
 #### Chiseldon FC U15 (11v11)
-- [North Wiltshire Youth Football League - U15 Division 4](https://fulltime.thefa.com/index.html?selectedSeason=801454154&selectedFixtureGroupAgeGroup=0&selectedDivision=816154815&selectedCompetition=0)
+- [North Wiltshire Youth Football League - U15 Division 3](https://fulltime.thefa.com/index.html?selectedSeason=887216677&selectedFixtureGroupAgeGroup=0&selectedDivision=75433352&selectedCompetition=0)
 - Manager: Dean Hart (FA Level 1)
 - Coach: Brady Lilley (FA Level 1)
 - Contact: Dean Hart
@@ -55,7 +55,7 @@ SN4 0LP
 {{< tab "Under 18s" >}}
 
 #### Chiseldon FC U18 (11v11)
-- [North Wiltshire Youth Football League - TBC](#)
+- [North Wiltshire Youth Football League - U17/18 Division 2](https://fulltime.thefa.com/index.html?selectedSeason=887216677&selectedFixtureGroupAgeGroup=0&selectedDivision=428455200&selectedCompetition=0)
 - Manager: James Lovell (FA Level 1)
 - Contact: James Lovell
 - Facebook: https://www.facebook.com/ChisledonFC
@@ -63,7 +63,7 @@ SN4 0LP
 
 {{< tab "Senior (Sat)" >}}
 #### Chiseldon FC Senior Saturday
-- [Swindon & District Football League – Premier Division](https://fulltime.thefa.com/index.html?league=2799344)
+- [Swindon & District Football League – Premier Division](https://fulltime.thefa.com/index.html?selectedSeason=298460429&selectedFixtureGroupAgeGroup=0&selectedDivision=945396438&selectedCompetition=0)
 - Manager: James Lovell (FA Level 1)
 - Contact: chiseldonfc@hotmail.com
 - Facebook: https://www.facebook.com/ChisledonFC
